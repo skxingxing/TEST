@@ -1,2 +1,8 @@
-# TEST
-For exerice python
+print("2222")
+print("2222")
+print("2222")
+print("2222")
+print("2222")
+print("2222")
+print("2222")
+print("2222")
