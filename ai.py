@@ -1,3 +1,2 @@
 # TEST
-For exerice python
-dd
+print("hello world")
